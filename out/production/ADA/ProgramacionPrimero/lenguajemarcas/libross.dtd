@@ -1,0 +1,14 @@
+<!ELEMENT librerias ANY>
+<!ATTLIST librerias genero CDATA #REQUIRED>
+<!ATTLIST libreria genero CDATA #REQUIRED>
+<!ELEMENT libreria (libro+)>
+<!ELEMENT tematica (#PCDATA)>
+<!ELEMENT libro (ISBN, titulo, nivel, editorial, fechaPublicacion, páginaWeb, precio, autor)>
+<!ELEMENT ISBN (#PCDATA)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT nivel (#PCDATA)>
+<!ELEMENT editorial (#PCDATA)>
+<!ELEMENT fechaPublicacion (#PCDATA)>
+<!ELEMENT páginaWeb (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>

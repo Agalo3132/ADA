@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE discoteca SYSTEM "validacion_canciones.dtd">
+<discoteca>
+    <album>
+        <artista>Platero &amp; yo</artista>
+    <genero>
+        rock
+        <subgenero>sinfonico</subgenero>
+    </genero>
+        <canciones>
+            <cancion numero="1">holalola</cancion>
+            <cancion numero="2">adiosmadios</cancion>
+            <cancion numero="1">heyrey</cancion>
+        </canciones>       
+    </album>
+</discoteca>

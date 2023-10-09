@@ -1,0 +1,9 @@
+<!ELEMENT discoteca (album+)>
+<!ELEMENT album ((artista|artistas), genero, canciones)>
+<!ELEMENT genero ANY>
+<!ELEMENT artista (#PCDATA)>
+<!ELEMENT subgenero (#PCDATA)>
+<!ELEMENT canciones (cancion+)>
+<!ELEMENT cancion (#PCDATA)>
+<!ELEMENT artistas (artista+)>
+<!ATTLIST cancion numero CDATA #REQUIRED>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE restaurante SYSTEM "pesca.dtd">
+<restaurante>
+    <nombre>Molt i bo</nombre>
+    <menu tipo="diario">
+        <linea>
+            <dia>Lunes</dia>
+            <primer_plato>Cocido madrileño</primer_plato>
+            <segundo_plato>Dorada a la plancha</segundo_plato>
+            <precio>9,95</precio>
+        </linea>
+        <linea>
+            <dia>Martes</dia>
+            <primer_plato>Macarrones a la boloñesa</primer_plato>
+            <segundo_plato>Ternera en salsa</segundo_plato>
+            <precio>9,95</precio>
+        </linea>
+        <linea>
+            <dia>Miércoles</dia>
+            <primer_plato>Gazpacho manchego</primer_plato>
+            <segundo_plato>Lubina al horno</segundo_plato>
+            <precio>9,95</precio>
+        </linea>
+        <linea>
+            <dia>Jueves</dia>
+            <primer_plato>Pata de cordero</primer_plato>
+            <segundo_plato>Dorada a la plancha</segundo_plato>
+            <precio>9,95</precio>
+        </linea>
+        <linea>
+            <dia>Viernes</dia>
+            <primer_plato>Consomé de verduras</primer_plato>
+            <segundo_plato>Manitas de cerdo</segundo_plato>
+            <precio>9,95</precio>
+        </linea>
+        <linea>
+            <dia>Sábado</dia>
+            <primer_plato>Ensalada especial</primer_plato>
+            <segundo_plato>Paella de marisco</segundo_plato>
+            <precio>12</precio>
+        </linea>
+        <linea>
+            <dia>Domingo</dia>
+            <primer_plato>Ensalada especial</primer_plato>
+            <segundo_plato>Paella con bogavante</segundo_plato>
+            <precio>15</precio>
+        </linea>
+    </menu>
+</restaurante>

@@ -1,0 +1,43 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"> 
+<xs:element name="notas">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element maxOccurs="unbounded" name="alumno">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="nombre" type="xs:string" />                       
+                                <xs:element name="modulos">
+                                    <xs:complexType>
+                                        <xs:sequence>
+                                            <xs:element maxOccurs="unbounded" name="modulo">
+                                                <xs:complexType>
+                                                    <xs:sequence>
+                                                        <xs:element name="nota" type="notas" />
+                                                    </xs:sequence>
+                                            <xs:attribute name="titulo" type="xs:string" />
+                                        </xs:complexType>
+                                    </xs:element>
+                                </xs:sequence>
+                            </xs:complexType>
+                        </xs:element>
+                    </xs:sequence>
+                    <xs:attribute name="nie" type="xs:string" />
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+    </xs:complexType>
+</xs:element>
+
+
+<xs:simpleType name="notas">
+        <xs:restriction base="xs:integer">
+            <xs:minInclusive value="1"></xs:minInclusive>
+            <xs:maxExclusive value="11"></xs:maxExclusive>
+        </xs:restriction>
+</xs:simpleType>
+
+
+
+
+
+</xs:schema>

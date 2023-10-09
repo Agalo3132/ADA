@@ -1,0 +1,9 @@
+<!ELEMENT restaurante (nombre, menu)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT menu (linea+)>
+<!ATTLIST menu tipo ID #REQUIRED>
+<!ELEMENT linea (dia, primer_plato, segundo_plato, precio)>
+<!ELEMENT dia (#PCDATA)>
+<!ELEMENT primer_plato (#PCDATA)>
+<!ELEMENT segundo_plato (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>

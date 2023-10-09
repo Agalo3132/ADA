@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mensaje>
+    <remitente>
+        <nombre>Pepito Pérez</nombre>
+        <email>pepito.perez@gmail.com</email>
+    </remitente>
+    <destinatario>
+        <nombre>Pepita Pérez</nombre>
+        <email>pepita.perez@gmail.com</email>
+    </destinatario>
+    <asunto>Navidad</asunto>
+    <mensaje>
+        <saludo>Buenos días</saludo>
+        <cuerpo>Feliz Navidad</cuerpo>
+        <despedida>Saludos.</despedida>
+    </mensaje>
+</mensaje>

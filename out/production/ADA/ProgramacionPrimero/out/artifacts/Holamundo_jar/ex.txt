@@ -1,0 +1,7 @@
+dia: day1 Cubierto con probabilidad de tormentas Temperatura max: 19 Temperatura min: 13
+dia: day2 Cubierto con lluvias Temperatura max: 22 Temperatura min: 12
+dia: day3 Cubierto Temperatura max: 23 Temperatura min: 12
+dia: day4 Cubierto con lluvias Temperatura max: 23 Temperatura min: 13
+dia: day5 Muy nuboso Temperatura max: 23 Temperatura min: 15
+dia: day6 Cubierto Temperatura max: 21 Temperatura min: 14
+dia: day7 Cubierto Temperatura max: 23 Temperatura min: 15

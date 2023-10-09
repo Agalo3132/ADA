@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE librerias SYSTEM "libross.dtd">
+<librerias genero="terror">
+    <tematica>XML</tematica>
+    <libreria genero="terror">
+        <libro>
+            <ISBN>978-1932690453</ISBN>
+            <titulo>XML in a Nutshell</titulo>
+            <nivel>Intermedio</nivel>
+            <editorial>O'Reilly Media</editorial>
+            <fechaPublicacion>3 octubre 2004</fechaPublicacion>
+            <páginaWeb>https://www.amazon.es/XML-Nutshell-Elliotte-Rusty-Harold/dp/0596007647/ref=sr_1_2?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=30HJ2SYBTRET2&amp;keywords=xml&amp;qid=1674845508&amp;sprefix=xml%2Caps%2C107&amp;sr=8-2</páginaWeb>
+            <precio>36,00€</precio>
+            <autor>Elliotte Rusty Harold</autor>
+        </libro>
+        <libro>
+            <ISBN>978-0596004200</ISBN>
+            <titulo>Learning XML</titulo>
+            <nivel>Básico</nivel>
+            <editorial>O'Reilly Media</editorial>
+            <fechaPublicacion>2 octubre 2003</fechaPublicacion>
+            <páginaWeb>https://www.amazon.es/Learning-XML-Classique-Erik-Ray/dp/0596004206/ref=sr_1_3?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=30HJ2SYBTRET2&amp;keywords=xml&amp;qid=1674845508&amp;sprefix=xml%2Caps%2C107&amp;sr=8-3</páginaWeb>
+            <precio>33,65€</precio>
+            <autor>Erik T. Ray</autor>
+        </libro>
+    </libreria>
+    <libreria genero="terror">
+        <libro>
+            <ISBN>9788495318688</ISBN>
+            <titulo>INICIACION A XML</titulo>
+            <nivel>Básico</nivel>
+            <editorial>INFOR BOOK S EDICIONES</editorial>
+            <fechaPublicacion>20 septiembre 2001</fechaPublicacion>
+            <páginaWeb>https://www.casadellibro.com/libro-iniciacion-a-xml/9788495318688/790818</páginaWeb>
+            <precio>33,97€</precio>
+            <autor>David E. Hunter</autor>
+        </libro>
+        <libro>
+            <ISBN>9782746097360</ISBN>
+            <titulo>XML PRÁCTICO (2ª ED.)</titulo>
+            <nivel>Avanzado</nivel>
+            <editorial>ENI</editorial>
+            <fechaPublicacion>10 septiembre 2015</fechaPublicacion>
+            <páginaWeb>https://www.casadellibro.com/libro-xml-practico-2-ed/9782746097360/2610974</páginaWeb>
+            <precio>29,90€</precio>
+            <autor>Thierry Boulanger</autor>
+        </libro>
+    </libreria>
+</librerias> 

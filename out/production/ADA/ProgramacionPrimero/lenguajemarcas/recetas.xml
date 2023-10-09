@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recetario SYSTEM "validacion_recetas.dtd">
+<recetario>
+    <autor>Carlos Arguiñano</autor>
+    <receta id="1">
+        <nombre>Blinis</nombre>
+        <descripcion>Cocina rusa, postre de muy fácil elaboración
+            Bajo coste. Nivel de calorias alto.
+        </descripcion>
+        <ingredientes>
+            <ingrediente id="1">1.- harina: 1,5 vasos</ingrediente>
+            <ingrediente id="2">2.- leche entera: 4 cucharadas</ingrediente>
+            <ingrediente id="3">3.- levadura: 4 cucharadas</ingrediente>
+            <ingrediente id="4">4.- huevos: 3</ingrediente>
+            <ingrediente id="5">5.- sal: 1 cucharadas de café</ingrediente>
+            <ingrediente id="6">6.- mantequilla derretida</ingrediente>
+        </ingredientes>
+
+        <referencia> 
+            <a href="http://www.platodeldia.com/recetas/?id=8805" target="_blank">http://www.platodeldia.com/recetas/?id=8805</a> 
+        </referencia>
+    </receta>
+
+    <receta id ="2">
+    <nombre>Berenjenas al Imán</nombre>
+    <descripcion>Cocina bizantina, verdura de fácil elaboración
+        Nivel de calorias medio.
+    </descripcion>
+    <ingredientes>
+        <ingrediente id="1">1.-  berenjenas pequeñas: cuatro piezas</ingrediente>
+        <ingrediente id="2">2.-  aceite de oliva</ingrediente>
+        <ingrediente id="3">3.-  cebollas: 1 piezas</ingrediente>
+        <ingrediente id="4">4.-  dientes de ajo: 2 piezas</ingrediente>
+        <ingrediente id="5">5.-  tomates: 2 piezas</ingrediente>
+        <ingrediente id="6">6.-  sal</ingrediente>
+        <ingrediente id="7">7.-  pimienta</ingrediente>
+        <ingrediente id="8">8.-  tomillo</ingrediente>
+        <ingrediente id="9">9.-  perejil</ingrediente>
+        <ingrediente id="10">10.- mantequilla: 1 cucharada de cafe</ingrediente>
+        <ingrediente id="11">11.- agua</ingrediente>
+    </ingredientes>
+    <elaboracion>
+        Elaboración:
+Se lavan las berenjenas y se pelan en bandas longitudinales. Las peladuras, de un centímetro de ancho, deben alternarse con la pulpa, también de un centrímetro de grosor. Hacemos en las berenjenas una incisión lateral a través de la cual se extraer , con ayuda de una cucharilla, un cuarto de su pulpa. Se doran las berenjenas en aceite caliente durente 3 minutos y se retiran. En el mismo aceite se rehogan la cebollas y los ajos picados. Se a?aden los tomates, pelados y troceados, la pulpa de las berenjenas, el perejil y tomillo. Salpimentar y cocer durante 15 minutos. Se rellenan las berenjenas con esta mezcla y se disponen en una fuente, con el lado relleno hacia arriba y cubiertas con un poco de mantequilla y agua. Se hornea durante 20 minutos y listo para servir.
+    </elaboracion>
+    </receta>
+
+    <receta id="3">
+        <nombre>Crepes suzettes</nombre>
+        <ingredientes>
+            <ingrediente id="1">1.-  harina: 3 mitades de vaso</ingrediente>
+            <ingrediente id="2">2.-  huevos: 2</ingrediente>
+            <ingrediente id="3">3.-  leche: 5 mitades de cucharada sopera</ingrediente>
+            <ingrediente id="4">4.-  aceite de oliva: 2 cucharada sopera</ingrediente>
+            <ingrediente id="5">5.-  sal</ingrediente>
+            <ingrediente id="6">6.-  pimienta molida</ingrediente>
+            <ingrediente id="7">7.-  mantequilla: 8 cucharadas soperas</ingrediente>
+            <ingrediente id="8">8.-  zumo de naranja: 2 naranjas</ingrediente>
+            <ingrediente id="9">9,-  azúcar: 6 cucharadas soperas</ingrediente>
+            <ingrediente id="10">10.- licor de Grand Marnier: 1/3 de vaso</ingrediente>
+        </ingredientes>
+        <elaboracion>
+            Elaboración:
+Batir la harina para crepes, los huevos, el aceite y la sal. Añadir la leche y 1/2 cucharada sopera de agua sin dejar de batir. Cuando la masa esté homegénea, dejar de batir y echar en un recipiente. Dejar que repose durante 1 h. Repartir la masa en medidas de 1 cazo y freir en dos sartenes al mismo tiempo. A medida que se vayan haciendo, reservar calientes, preferiblemente al baño María. Tapar con papel de aluminio. Para el sirope, derretir la mantequilla en un cazo con el azúcar, el zumo de naranja y unas cuantas ralladuras de naranja y la mitad del Grand Marnier. Calentar la otra mitad en otro cazo. Cuando se vaya a servir, calentar el sirope y el Grand Marnier. Echar las crepes dobladas en una sartén. Regar con el sirope hirviendo y el Grand Marnier. Flambear.
+        </elaboracion>
+    </receta>
+    <fecha>Fecha: 26 de Abril de 2006</fecha>
+</recetario>

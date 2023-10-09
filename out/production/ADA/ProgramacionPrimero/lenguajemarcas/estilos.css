@@ -1,0 +1,158 @@
+/**
+h1{
+    color: red;
+}
+
+#uno{
+    color: bisque;
+}
+
+.especial{
+    background-color: aqua;
+}
+
+h1,p{
+    color: red;
+}
+**/
+
+/**todos los descendientes de div que sean "p" serán de color rojo**/
+div p{
+    color: red;
+}
+
+
+/**todos los "p" descendientes de div2 serán de color rojo
+#div2 p{
+    color: red;
+}
+**/
+
+/**selecciona los hijos "p" directos de div2
+#div2 > p{
+    color: aqua;
+}
+**/
+/**selecciona los "p" adayacentes/hermanos del h1
+h1 + p{
+    color: red;
+}
+/**
+
+/**selecciona los "h1" adayacentes/hermanos del h1
+h1 + h1{
+    color: red;
+}
+**/
+
+/**selecciona todos los "h1" que vengan despues de un "h1"
+h1 ~ h1{
+    color: red;
+}
+**/
+
+/**
+[alt]{
+    border-color: aqua;
+    border-width: 10px;
+    border-style: solid;
+}
+**/
+
+/**las imagnees con el atributo gatuno son seleccionados
+img[alt="gatuno"]{
+    border-color: aqua;
+    border-width: 10px;
+    border-style: solid;
+}
+**/
+
+/**las imagnees con el atributo alt y que acaben en uno son seleccionados
+img[alt*="uno"]{
+    border-color: aqua;
+    border-width: 10px;
+    border-style: solid;
+}
+**/
+
+
+/**
+#vacio{
+    position: absolute;
+    background-color: red;
+    width: 40%;
+    height: 40%;
+}
+**/
+
+#vacio{
+    background-color: red;
+    width: 40%;
+    border-color: blue;
+    border-width: 10px 2px 5px 15px;
+    border-style: solid;
+    border-top-width: 10px;
+    border-left-color: aquamarine;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+
+
+img:hover{
+    width: 400px;
+}
+
+a:hover{
+    color: orangered;
+    font-size: 100px;
+}
+
+h1:last-child{
+    color: darksalmon;
+}
+
+li:nth-child(1){
+    background-color: red;
+}
+li:nth-child(2){
+    background-color: red;
+}
+li:nth-child(3){
+    background-color: yellow;
+}
+li:nth-child(4){
+    background-color: yellow;
+}
+li:nth-child(5){
+    background-color: red;
+}
+li:nth-child(6){
+    background-color: red;
+}
+
+table {
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    padding: 25px;
+}
+
+td {
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    padding: 25px;
+}
+
+tr:nth-child(odd) > td:nth-child(even), tr:nth-child(even) > td:nth-child(odd) {
+    background-color: black;
+}
+
+
+
+
+
+

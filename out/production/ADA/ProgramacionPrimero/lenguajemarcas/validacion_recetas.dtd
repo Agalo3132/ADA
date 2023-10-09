@@ -1,0 +1,14 @@
+<!ELEMENT recetario ANY>
+<!ELEMENT autor (#PCDATA)>
+<!ATTLIST receta id CDATA #REQUIRED>
+<!ELEMENT receta (nombre, descripcion, ingredientes)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT ingredientes (ingrediente+)>
+<!ELEMENT ingrediente (#PCDATA)>
+<!ATTLIST ingrediente id CDATA #REQUIRED>
+<!ELEMENT referencia (a)>
+<!ATTLIST a href CDATA #REQUIRED>
+<!ATTLIST a target CDATA #REQUIRED>
+<!ELEMENT a (#PCDATA)>
+<!ELEMENT referencia (#PCDATA)>

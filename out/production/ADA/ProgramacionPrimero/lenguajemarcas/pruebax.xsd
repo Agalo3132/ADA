@@ -1,0 +1,12 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="principal" type="positivos">
+
+    </xs:element>
+
+        <xs:simpleType name="positivos">
+            <xs:restriction base="xs:integer">
+                <xs:minInclusive value="1"></xs:minInclusive>
+            </xs:restriction>
+        </xs:simpleType>
+
+</xs:schema>

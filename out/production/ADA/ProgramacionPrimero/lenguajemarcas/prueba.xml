@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumnos>
+    <alumno>
+        <nombre>Antonio</nombre>
+        <apellidos>Martinez Garcia</apellidos>
+        <nia>18989892</nia>
+    </alumno>
+    <alumno>
+        <nombre>Alvaro</nombre>
+        <apellidos>Serrano Martinez</apellidos>
+        <nia>18989212</nia>
+    </alumno>
+    <alumno>
+        <nombre>Alex</nombre>
+        <apellidos>Morcillo</apellidos>
+        <nia>1189892</nia>
+    </alumno>
+    <alumno>
+        <nombre>Miguel</nombre>
+        <apellidos>Pozo</apellidos>
+        <nia>18329892</nia>
+    </alumno>
+    <alumno>
+        <nombre>Eduardo</nombre>
+        <apellidos>Garcia</apellidos>
+        <nia>11122892</nia>
+    </alumno>
+    <comparacion>
+        <![CDATA[>6 e0s < 7 & 7 > 6<]]>
+    </comparacion>
+    <comparacion>
+        6 e0s &lt; 7 &amp; 7 &gt; 6
+    </comparacion>
+    <!--Comentario ejemplo-->
+</alumnos>

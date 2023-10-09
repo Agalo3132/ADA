@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE examen SYSTEM "examen.dtd">
+<examen modelo="B">
+    <cabecera>
+        <curso>1º SMR</curso>
+        <evaluacion>3ª EVALUACION</evaluacion>
+        <modulo>Sistemas Operativos Monopuesto</modulo>
+        <alumno>Alvaro Serrano Martinez</alumno>
+        <fecha>3/3/2023</fecha>
+    </cabecera>
+    <preguntas>
+        <parte parte="1" tipo="test" puntuacion="2">
+            <informacion>(2 puntos. Una respuesta erronea quita ½ respuesta correcta) Marca la respuesta correcta con un circulo, si quieres corregir una respuesta, marca con una X el circulo de la respuesta que ya no es correcta y haz un circulo encima de la nueva respuesta que quieras marcar.</informacion>
+            <pregunta numero="1">
+                <enunciado>1- Si en linux ejecutamos los comandos cd y a continuacion ls -la .</enunciado>
+                <sub-pregunta numero="1">
+                    <enunciado>a.	Muestra el contenido extendido (permisos y ficheros ocultos) del directorio por defecto del usuario</enunciado>
+                </sub-pregunta>
+                <sub-pregunta numero="2">
+                    <enunciado>b.	Muestra el contenido en formato estandar del directorio /HOME</enunciado>
+                </sub-pregunta>
+                <sub-pregunta numero="3">
+                    <enunciado>c.	Muestra el contenido abreviado (solo nombre) del directorio /HOME</enunciado>
+                </sub-pregunta>
+            </pregunta>
+        </parte>
+        <parte parte="2" tipo="escrito">
+            <pregunta numero="1">
+                <enunciado>1-	Explica que contiene y para que sirve el directorio /mnt de un sistema UNIX/Linux</enunciado>
+            </pregunta>
+            <pregunta numero="2">
+                <enunciado>2-	En la linea de comando de Windows, indica las diferencias entre usar \ y / en que casos usamos uno u otro caracter.</enunciado>
+            </pregunta>
+        </parte>
+        <parte parte="3" tipo="ordenador">
+            <pregunta numero="1">
+                <enunciado>1- Durante el examen se llamara a cada alumno para que realice tareas y comandos de Windows (3 ptos.)</enunciado>
+                <sub-pregunta numero="1">
+                    <enunciado>1-	Abre una ventana de Shell</enunciado>
+                </sub-pregunta>
+                <sub-pregunta numero="2">
+                    <enunciado>2-	Consulta en que directorio estas</enunciado>
+                </sub-pregunta>
+            </pregunta>
+            <pregunta numero="2">
+                <enunciado>2- Durante el examen se llamara a cada alumno para que realice tareas y comandos de Linux (3 ptos.)</enunciado>
+                <sub-pregunta numero="1">
+                    <enunciado>1-	Consulta los perfiles que estan creados en este equipo</enunciado>
+                </sub-pregunta>
+                <sub-pregunta numero="2">
+                    <enunciado>2- Indica cuanto espacio se podria recuperar del disco c:</enunciado>
+                </sub-pregunta>
+            </pregunta>
+            <nota>Si no se indica expresamente, no se debe cambiar de directorio para ejecutar un comando. Si se puede usar la ayuda de comandos.</nota>
+        </parte>
+    </preguntas>
+    <respuestas>
+        <parte parte="1">
+            <pregunta numero="1">
+                <sub-pregunta numero="1">
+                    <respuesta>falso</respuesta>
+                </sub-pregunta>
+                <sub-pregunta numero="2">
+                    <respuesta>verdadero</respuesta>
+                </sub-pregunta>
+                <sub-pregunta numero="3">
+                    <respuesta>falso</respuesta>
+                </sub-pregunta>
+                <sub-pregunta numero="4">
+                    <respuesta>falso</respuesta>
+                </sub-pregunta>
+            </pregunta>
+            <pregunta numero="2">
+                <sub-pregunta numero="1">
+                    <respuesta>falso</respuesta>
+                </sub-pregunta>
+                <sub-pregunta numero="2">
+                    <respuesta>verdadero</respuesta>
+                </sub-pregunta>
+                <sub-pregunta numero="3">
+                    <respuesta>falso</respuesta>
+                </sub-pregunta>
+                <sub-pregunta numero="4">
+                    <respuesta>falso</respuesta>
+                </sub-pregunta>
+            </pregunta>
+        </parte>
+        <parte parte="2">
+            <pregunta numero="1">
+                <respuesta>Esta es la respuesta de la pregunta</respuesta>
+            </pregunta>
+            <pregunta numero="2">
+                <respuesta>Esta es la respuesta de la pregunta</respuesta>
+            </pregunta>
+        </parte>
+        <parte parte="3">
+            <pregunta numero="1">
+                <sub-pregunta numero="1">
+                    <respuesta>Esta es la respuesta de la pregunta</respuesta>
+                </sub-pregunta>
+                <sub-pregunta numero="2">
+                    <respuesta>Esta es la respuesta de la pregunta</respuesta>
+                </sub-pregunta>
+            </pregunta>
+            <pregunta numero="2">
+                <sub-pregunta numero="1">
+                    <respuesta>Esta es la respuesta de la pregunta</respuesta>
+                </sub-pregunta>
+                <sub-pregunta numero="2">
+                    <respuesta>Esta es la respuesta de la pregunta</respuesta>
+                </sub-pregunta>
+            </pregunta>
+        </parte>
+    </respuestas>
+
+</examen>

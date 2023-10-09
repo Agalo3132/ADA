@@ -1,0 +1,25 @@
+<!ELEMENT examen ANY>
+<!ATTLIST examen modelo ID #REQUIRED>
+<!ELEMENT cabecera (curso, evaluacion, modulo, alumno, fecha)>
+<!ELEMENT curso (#PCDATA)>
+<!ELEMENT evaluacion (#PCDATA)>
+<!ELEMENT modulo (#PCDATA)>
+<!ELEMENT alumno (#PCDATA)>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT preguntas ANY>
+<!ELEMENT parte (informacion, pregunta)>
+<!ATTLIST parte parte CDATA #REQUIRED>
+<!ATTLIST parte tipo CDATA #IMPLIED>
+<!ATTLIST parte puntuacion CDATA #IMPLIED>
+<!ELEMENT informacion (#PCDATA)>
+<!ELEMENT pregunta (enunciado|sub-pregunta)>
+<!ATTLIST pregunta numero CDATA #IMPLIED>
+<!ELEMENT enunciado (#PCDATA)>
+<!ELEMENT sub-pregunta (enunciado|respuesta|imagen|puntuacion)>
+<!ATTLIST sub-pregunta numero CDATA #REQUIRED>
+<!ELEMENT puntuacion (#PCDATA)>
+<!ELEMENT imagen (#PCDATA)>
+<!ATTLIST sub-pregunta numero CDATA #REQUIRED>
+<!ELEMENT nota (#PCDATA)>
+<!ELEMENT respuestas (parte)>
+<!ELEMENT respuesta (#PCDATA)>

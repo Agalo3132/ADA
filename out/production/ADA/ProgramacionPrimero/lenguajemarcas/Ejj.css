@@ -1,0 +1,45 @@
+.fila:first-child{
+    background-color: aqua;
+    width: 50%;
+    position: static;
+    top:200px;
+    left:100px;
+}
+
+.fila:nth-child(2){
+    background-color: coral;
+    width: 80%;
+    position: static;
+    top: 50px;
+    left: 50px;
+    padding: 4px;
+    float: left;
+}
+
+.bloque:hover{
+    background-color: rgb(189, 235, 147);
+    position: relative;
+    animation-name: animacion;
+    animation-duration: 0,5s;
+    top: -20px;
+    height: 70px;
+}
+
+.menu li{
+    display: inline;
+    border-left: 0px,1px,0px,0px;
+    border-left-style: solid;
+}
+
+.bloque{
+    background-color: chartreuse;
+    width: 20%;
+    margin: 4px;
+    float: right;
+}
+
+
+.fila:nth-child(3){
+    background-color: blueviolet;
+}
+

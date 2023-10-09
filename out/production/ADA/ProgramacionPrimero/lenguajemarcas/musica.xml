@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE album SYSTEM "validacion_musica.dtd">
+<album>
+    <caracteristicas>
+        <ARTISTA> ABC (2) </ARTISTA>
+        <TÍTULO> The collection </TÍTULO>
+        <SELLO> KARUSSELL INTERNATIONAL </SELLO>
+        <REFERENCIA> 551 831-2 </REFERENCIA>
+        <AÑO> 1996 </AÑO>
+        <PAIS> Germany </PAIS>
+        <FORMATO> CD - Compilation </FORMATO>
+        <GENERO> Funk / Soul, Electronic </GENERO>
+        <ESTILO> Funk Disco, Synth Pop </ESTILO>
+        <OBSERVACIONES> Licensed from Mercuty Records LTD (London) </OBSERVACIONES>
+    </caracteristicas>
+    
+    <CD1>
+        <cancion> 
+            <id> 01 </id>
+            <nombre> Poison Arrow </nombre>
+            <duracion> 03:23 </duracion>
+        </cancion>
+        <cancion> 
+            <id> 02 </id>
+            <nombre> The Look Of Love (Part One) </nombre>
+            <duracion> 03:29 </duracion>
+        </cancion>
+        <cancion> 
+            <id> 03 </id>
+            <nombre> The Night You Murdered Love </nombre>
+            <duracion> 04:53 </duracion>
+        </cancion>
+        <cancion> 
+            <id> 04 </id>
+            <nombre> Tears Are Not Enough </nombre>
+            <duracion> 03:29 </duracion>
+        </cancion>
+        <cancion> 
+            <id> 05 </id>
+            <nombre> Be Near Me </nombre>
+            <duracion> 03:37 </duracion>
+        </cancion>
+        <cancion> 
+            <id> 06 </id>
+            <nombre> I'm In Love With </nombre>
+            <duracion> 04:35 </duracion>
+        </cancion>
+        <cancion> 
+            <id> 07 </id>
+            <nombre> The Real Thing </nombre>
+            <duracion> 04:54 </duracion>
+        </cancion>
+        <cancion> 
+            <id> 08 </id>
+            <nombre> Love's A Dangerous Laguaje </nombre>
+            <duracion> 03:40 </duracion>
+        </cancion>
+        <cancion> 
+            <id> 09 </id>
+            <nombre> The Greatest Love Of All </nombre>
+            <duracion> 05:34 </duracion>
+        </cancion>
+        <cancion> 
+            <id> 10 </id>
+            <nombre> When Smokey Sings </nombre>
+            <duracion> 04:18 </duracion>
+        </cancion>
+        <cancion> 
+            <id> 11 </id>
+            <nombre> One Better World </nombre>
+            <duracion> 05:38 </duracion>
+        </cancion>
+        <cancion> 
+            <id> 12 </id>
+            <nombre> Vanity Kills </nombre>
+            <duracion> 03:29 </duracion>
+        </cancion>
+        <cancion> 
+            <id> 13 </id>
+            <nombre> Bite The Hand </nombre>
+            <duracion> 03:07 </duracion>
+        </cancion>
+        <cancion> 
+            <id> 14 </id>
+            <nombre> Chicago (Abridged) </nombre>
+            <duracion> 03:40 </duracion>
+        </cancion>
+        <cancion> 
+            <id> 15 </id>
+            <nombre> Minneapolis </nombre>
+            <duracion> 02:57 </duracion>
+        </cancion>
+        <cancion> 
+            <id> 16 </id>
+            <nombre> Think Again </nombre>
+            <duracion> 03:39 </duracion>
+        </cancion>
+        <cancion> 
+            <id> 17 </id>
+            <nombre> Never More Than Now </nombre>
+            <duracion> 06:03 </duracion>
+        </cancion>
+        <cancion> 
+            <id> 18 </id>
+            <nombre> All Of My Hearth </nombre>
+            <duracion> 04:49 </duracion>
+        </cancion>
+    </CD1>
+
+</album>

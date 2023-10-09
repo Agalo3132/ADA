@@ -1,0 +1,30 @@
+<notas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="examen.xsd">
+    <alumno nie="10004040">
+        <nombre>Eva</nombre>
+    <modulos>
+        <modulo titulo="BD">
+            <nota>8</nota>
+        </modulo>
+        <modulo titulo="PROG">
+            <nota>9</nota>
+        </modulo>
+        <modulo titulo="LMSGI">
+            <nota>10</nota>
+        </modulo>
+    </modulos>
+    </alumno>
+    <alumno nie="10004567">
+        <nombre>Luis</nombre>
+    <modulos>
+        <modulo titulo="BD">
+            <nota>6</nota>
+        </modulo>
+        <modulo titulo="PROG">
+            <nota>10</nota>
+        </modulo>
+        <modulo titulo="LMSGI">
+            <nota>5</nota>
+        </modulo>
+    </modulos>
+    </alumno>
+</notas>

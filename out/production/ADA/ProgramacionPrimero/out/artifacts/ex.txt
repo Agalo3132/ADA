@@ -1,0 +1,50 @@
+day 
+day1
+Temperatura máxima 
+19
+Temperatura mínima 
+13
+Texto 
+Cubierto con probabilidad de tormentasday 
+day2
+Temperatura máxima 
+22
+Temperatura mínima 
+12
+Texto 
+Cubierto con lluviasday 
+day3
+Temperatura máxima 
+23
+Temperatura mínima 
+12
+Texto 
+Cubiertoday 
+day4
+Temperatura máxima 
+23
+Temperatura mínima 
+13
+Texto 
+Cubierto con lluviasday 
+day5
+Temperatura máxima 
+23
+Temperatura mínima 
+15
+Texto 
+Muy nubosoday 
+day6
+Temperatura máxima 
+21
+Temperatura mínima 
+14
+Texto 
+Cubiertoday 
+day7
+Temperatura máxima 
+23
+Temperatura mínima 
+15
+Texto 
+Cubierto
